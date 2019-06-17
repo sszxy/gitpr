@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
     ImageView practiceIv;
     ImageView getPracticeIv;
     Button button2;
+    Button bt;
     String path="https://api.bzqll.com/music/netease/url?id=487379429&key=579621905";
 
 
