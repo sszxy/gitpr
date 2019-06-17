@@ -31,8 +31,7 @@ public class MainActivity extends AppCompatActivity {
 
     ImageView bt;
 
-    ImageView iv;
-
+    ImageView ivv;
     String path="https://api.bzqll.com/music/netease/url?id=487379429&key=579621905";
 
 
